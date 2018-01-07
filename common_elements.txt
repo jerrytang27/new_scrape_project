@@ -1,0 +1,3 @@
+<td class="standing-table__cell">ranking</td>
+class="standing-table__cell--name-link">Club Name</a>
+<td class="standing-table__cell" data-sort-value="ranking">points</td>
